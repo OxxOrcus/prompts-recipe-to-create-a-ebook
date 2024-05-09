@@ -5,6 +5,7 @@ Projeto EBOOK Gerado por I.A.s
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts seguem abaixo.
 
+Leia o ebook aqui https://www.linkedin.com/feed/update/urn:li:ugcPost:7194263066711146496/
 
 💻 Tecnologias utilizadas no projeto
 ChatGPT
